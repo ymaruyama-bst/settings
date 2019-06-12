@@ -1,0 +1,342 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/project/axis_server/app/controllers/stock/v1/stock_images_controller.rb" timestamp="1559711476771" />
+      <file name="$USER_HOME$/dev/project/axis_server/spec/support/csv_export_result_matcher.rb" timestamp="1557848757094">
+        <mark key="[" line="32" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/components/Sale/BulkRegistrationSaleDetailModal.vue" timestamp="1560225278287">
+        <mark key="[" line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/requests/stock/v1/stock_v1_stocks_spec.rb" timestamp="1559813753718">
+        <mark key="[" line="1580" column="84" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/components/Sale/TheSaleRegistration.vue" timestamp="1560222029291">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/tbc/ruby-on-rails-pg-on-docker/db/migrate/20190606144721_create_priorities.rb" timestamp="1559833577224">
+        <mark key="[" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/docs/el-training.md" timestamp="1559105719790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/support/sale_matcher.rb" timestamp="1558577170299">
+        <mark key="[" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/app/controllers/tasks_controller.rb" timestamp="1559711568997">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/support/inventory_matcher.rb" timestamp="1557851500946">
+        <mark key="[" line="26" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/app/models/task.rb" timestamp="1559653871621">
+        <mark key="[" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/tbc/ruby-on-rails-pg-on-docker/config/routes.rb" timestamp="1559833361878" />
+      <file name="/actions.js" timestamp="1560149199215" />
+      <file name="$USER_HOME$/dev/project/private/tbc/ruby-on-rails-pg-on-docker/.gitignore" timestamp="1559833784503">
+        <mark key="[" line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/controllers/master/v1/master_data_controller.rb" timestamp="1558401366967">
+        <mark key="[" line="28" column="100" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/store/sale/actions.js" timestamp="1560221184321">
+        <mark key="[" line="192" column="90" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/serializers/stock_modification_lost_serializer_spec.rb" timestamp="1558666676084">
+        <mark key="[" line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/db/migrate/20190604122747_create_statuses.rb" timestamp="1559651818286">
+        <mark key="[" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/lib/tasks/bugfix/2019_04_26_update_stock_item_price.rake" timestamp="1559889880235">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/serializers/sale_detail_serializer.rb" timestamp="1558079128540">
+        <mark key="[" line="30" column="25" />
+      </file>
+      <file name="/TheSaleRegistration.vue" timestamp="1560158639807" />
+      <file name="$USER_HOME$/dev/project/axis_server/app/services/sale_type_batch_sale_create_service.rb" timestamp="1560240534007">
+        <mark key="[" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/support/stock_matcher.rb" timestamp="1558416236526">
+        <mark key="[" line="406" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/services/inventory_status_update_service_spec.rb" timestamp="1555920326518">
+        <mark key="[" line="291" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/services/stock_view_data/stock_item_set_view_data_entry_spec.rb" timestamp="1555585190185">
+        <mark key="[" line="121" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/services/inventory_details_csv_export_service_spec.rb" timestamp="1557848869534">
+        <mark key="[" line="44" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/log/test_to_c.log" timestamp="1560131412110">
+        <mark key="[" line="16" column="67" />
+      </file>
+      <file name="/sale_serializer.rb" timestamp="1558432239491">
+        <mark key="[" line="42" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/services/stock_registry/edit_stock_service.rb" timestamp="1559717054387" />
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/doc/Readme.md" timestamp="1559652700995">
+        <mark key="[" line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/components/Stock/BaseStockIndex.js" timestamp="1558436704109">
+        <mark key="[" line="192" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/log/development.log" timestamp="1559710299116" />
+      <file name="$USER_HOME$/dev/project/axis_server/db/migrate/20190218060505_create_master_stock_estimated_price_change_reason_types.rb" timestamp="1560161901655" />
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/components/Sale/TheSaleTypeRegistration.vue" timestamp="1558576795242">
+        <mark key="[" line="274" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/Gemfile" timestamp="1559693464141">
+        <mark key="[" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/services/stock_registry/hook/estimated_selling_price_diff_hook.rb" timestamp="1560163800352">
+        <mark key="[" line="28" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/controllers/stock/v1/stocks_controller.rb" timestamp="1559811653031">
+        <mark key="[" line="97" column="83" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/utils/setInputs.js" timestamp="1558597554089">
+        <mark key="[" line="42" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/serializers/csv_export/inventory_detail_for_csv_serializer_spec.rb" timestamp="1557848723879">
+        <mark key="[" line="42" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/doc/el-training.md" timestamp="1559649889271">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/db/migrate/20190604121105_create_users.rb" timestamp="1559650426802">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/README.md" timestamp="1559707085030" />
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/app/models/status.rb" timestamp="1559658840467">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/request_params/inventory_detail_index_request_params/order_spec.rb" timestamp="1558045062831">
+        <mark key="[" line="51" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/config/locales/csv_export.yml" timestamp="1557824457547">
+        <mark key="[" line="110" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/serializers/inventory_detail_serializer_spec.rb" timestamp="1558000432518">
+        <mark key="[" line="107" column="82" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/lib/tasks/bugfix/2019_03_22_update_stock_item_details.rake" timestamp="1556199804495">
+        <mark key="[" line="52" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/tbc/ruby-on-rails-pg-on-docker/db/migrate/20190606144712_create_statuses.rb" timestamp="1559833551286">
+        <mark key="[" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/app/views/layouts/application.html.erb" timestamp="1559704881090">
+        <mark key="[" line="12" column="16" />
+      </file>
+      <file name="/stock_item_price_serializer.rb" timestamp="1560152689335" />
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/frontend/build/webpack.dev.conf.js" timestamp="1559693328554" />
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/config/database.yml" timestamp="1559602282610">
+        <mark key="[" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/tbc/ruby-on-rails-pg-on-docker/config/database.yml" timestamp="1559831648762">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/tbc/ruby-on-rails-pg-on-docker/db/migrate/20190606144732_create_tasks.rb" timestamp="1559833582272">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/components/Stock/UpdateStockInventoryModal.vue" timestamp="1557902979682">
+        <mark key="[" line="101" column="101" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/serializers/stock_for_view_serializer.rb" timestamp="1559813900991" />
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/components/Stock/TheStockInventory.vue" timestamp="1559875940865">
+        <mark key="[" line="745" column="60" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1069378095/usr/local/bundle/gems/activemodel-5.2.0/lib/active_model/type/registry.rb" timestamp="1558339937278">
+        <mark key="[" line="11" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/models/concerns/stockable.rb" timestamp="1559794035600" />
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/components/Sale/SelectSaleTypeStockModal.vue" timestamp="1560154601228" />
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/docker-compose.yml" timestamp="1559103514796">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/tbc/ruby-on-rails-pg-on-docker/docker-compose.yml" timestamp="1559834070207">
+        <mark key="[" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/router/index.js" timestamp="1560158322635" />
+      <file name="$USER_HOME$/dev/project/axis_server/app/request_params/request_params_base.rb" timestamp="1558346482093">
+        <mark key="[" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/models/master/stock_estimated_price_change_reason_type.rb" timestamp="1560160663256" />
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/app/javascript/app.vue" timestamp="1559706204012">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/erd/def/axis_inventory.yaml" timestamp="1557851001196">
+        <mark key="[" line="484" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/config/webpack/environment.js" timestamp="1559830084057">
+        <mark key="[" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/config/routes.rb" timestamp="1559711180730">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/services/stock_modification/create_service_spec.rb" timestamp="1559037076729">
+        <mark key="[" line="687" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/models/stock_snapshot.rb" timestamp="1559793554124" />
+      <file name="$USER_HOME$/dev/project/axis_server/spec/serializers/sale_type_serializer_spec.rb" timestamp="1558577136890">
+        <mark key="[" line="57" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/app/models/priority.rb" timestamp="1559658475610">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="/sale_type_batch_sale_create_service.rb" timestamp="1560150467537" />
+      <file name="$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/1069378095/usr/local/bundle/gems/activemodel-5.2.0/lib/active_model/type.rb" timestamp="1558340022848">
+        <mark key="[" line="27" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/.circleci/config.yml" timestamp="1560163784271">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="294" column="18" />
+        <mark key="." line="294" column="18" />
+        <mark key="^" line="294" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/frontend/Dockerfile" timestamp="1559709714734">
+        <mark key="[" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/models/inventory_detail_stock_snapshot.rb" timestamp="1557890942245">
+        <mark key="[" line="65" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560163872240">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/controllers/sale/v1/sale_types_controller.rb" timestamp="1560150740910" />
+      <file name="$USER_HOME$/dev/project/axis_server/app/serializers/inventory_detail_stock_snapshot_serializer.rb" timestamp="1557997510240">
+        <mark key="[" line="60" column="91" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/log/2019_04_26_update_stock_item_price.log" timestamp="1559897886136" />
+      <file name="$USER_HOME$/dev/project/axis_server/app/serializers/inventory_detail_serializer.rb" timestamp="1557997328631">
+        <mark key="[" line="48" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/request_params/operation_request_create_request_params.rb" timestamp="1556177588374">
+        <mark key="[" line="27" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/config/environments/development.rb" timestamp="1559710342639">
+        <mark key="[" line="59" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/frontend/src/store/stock/actions.js" timestamp="1560221571662">
+        <mark key="[" line="514" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/app/javascript/packs/hello_vue.js" timestamp="1559830337822">
+        <mark key="[" line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/app/controllers/stock/v1/inventories_controller.rb" timestamp="1557462943867">
+        <mark key="[" line="77" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/spec/lib/batch/create_inventory_detail_stock_snapshot_spec.rb" timestamp="1558075133455">
+        <mark key="[" line="22" column="134" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/config/routes.rb" timestamp="1559810762988" />
+      <file name="$USER_HOME$/dev/project/private/ruby-on-rails-pg-on-docker/db/migrate/20190604121852_create_priorities.rb" timestamp="1559650774749">
+        <mark key="[" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/project/axis_server/lib/batch/create_inventory_detail.rb" timestamp="1559717046060" />
+      <file name="$USER_HOME$/dev/project/axis_server/app/request_params/stock_item_set_create_request_params.rb" timestamp="1556071796483">
+        <mark key="[" line="18" column="90" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" timestamp="1560223459734">
+        <mark key="[" line="40" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="6845" column="36" filename="$USER_HOME$/dev/project/axis_server/frontend/dist/static/js/app.js" />
+      <jump line="60" column="24" filename="$USER_HOME$/dev/project/axis_server/spec/requests/stock/v1/stock_v1_inventory_details/assumed_item_location_spec.rb" />
+      <jump line="666" column="91" filename="$USER_HOME$/dev/project/axis_server/frontend/src/components/Stock/TheStockInventory.vue" />
+      <jump line="713" column="0" filename="$USER_HOME$/dev/project/axis_server/log/batch.log" />
+      <jump line="13" column="91" filename="$USER_HOME$/dev/project/axis_server/log/batch.log" />
+      <jump line="272" column="101" filename="$USER_HOME$/dev/project/axis_server/spec/request_params/inventory_detail_index_request_params/apply_to_spec.rb" />
+      <jump line="328" column="16" filename="$USER_HOME$/dev/project/axis_server/spec/services/stock_modification/decide_service_spec.rb" />
+      <jump line="41801" column="109" filename="$USER_HOME$/dev/project/axis_server/log/dryrun_2019_06_03_update_snapshot_to_c_limit_price.log" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDptb2RhbC1jaGlsZC1wcm9wcz0ibW9kYWxQcm9wcyIK</text>
+      </register>
+      <register name="-" type="4">
+        <text>matches</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBnZXQgJ21hc3Rlci92MS9mZXRjaF9hc3N1bWVkX2l0ZW1fbG9jYXRpb25zJywgdG86ICdtYXN0ZXIvdjEvbWFzdGVyX2RhdGEjZmV0Y2hfYXNzdW1lZF9pdGVtX2xvY2F0aW9ucycsIGFzOiAnbWFzdGVyX3YxX2ZldGNoX2Fzc3VtZWRfaXRlbV9sb2NhdGlvbnMnCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDptb2RhbC1jaGlsZC1wcm9wcz0ibW9kYWxQcm9wcyIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgRmlsZS5vcGVuKCdsb2cvdGVzdF90b19jLmxvZycsICdyJykgZG8gfGZpbGV8Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIyBTbmFwc2hvdOOBq3RvQ+aMh+WApOOBjOaXouOBq+eZu+mMsuOBleOCjOOBpuOBhOOCi+WgtOWQiOOBr+OBneOBruOBvuOBvuOBq+OBl+abtOaWsOOBr+ihjOOCj+OBquOBhAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIyBBWElTTi03NOOBp+WPjeaYoOOCkuWun+aWveOBl+OBn+WcqOW6q0lE44KS44Ot44Kw44GL44KJ5Y+W5b6X44GX44CB57SQ44Gl44GPU25hcHNob3Tjga50b0PmjIflgKTjgavnj77mmYLngrnjga50b0PmjIflgKTjgpLoqK3lrprjgZnjgosK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgRmlsZS5leGlzdD8oJ2xvZy8yMDE5XzA0XzI2X3VwZGF0ZV9zdG9ja19pdGVtX3ByaWNlLmxvZycpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RCwgWzIwMTktMDYtMDdUMTU6MzY6MTYuMjAyNzIyICMzNjFdIERFQlVHIC0tIDogICDihrMgbGliL3Rhc2tzL2J1Z2ZpeC8yMDE5XzA2XzAzX3VwZGF0ZV9zbmFwc2hvdF9vX2NfbGltaXRfcHJpY2UucmFrZTozNAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdG1wID0gMAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcHAgdG1wCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
